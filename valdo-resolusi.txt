@@ -1,5 +1,2 @@
 VALDO RESOLUSI
-- A
-- B
-- C
-- E
+- A only
